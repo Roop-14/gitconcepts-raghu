@@ -3,10 +3,11 @@
 Date: 28-Aug-2025  
 Author: Roop  
 %% First change in the file.
+*****Making changes*****
 ## Goals
 - Learn how to create and edit files in GitHub
 - Practice Git commands (add, commit, push, pull)
-- Get comfortable with writing text content
+
 
 ## Things I Learned Today
 1. How to create a file directly in GitHub.
