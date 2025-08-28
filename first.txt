@@ -1,0 +1,23 @@
+# My Practice Notes
+
+Date: 28-Aug-2025  
+Author: Roop  
+
+## Goals
+- Learn how to create and edit files in GitHub
+- Practice Git commands (add, commit, push, pull)
+- Get comfortable with writing text content
+
+## Things I Learned Today
+1. How to create a file directly in GitHub.
+2. How to clone a repo to my computer.
+3. How to commit and push changes using Git.
+4. Basic workflow: write → save → commit → push → view on GitHub.
+
+## To-Do
+- Practice daily by writing at least one note.
+- Try markdown (`.md`) files later for formatted notes.
+- Explore branches and pull requests.
+
+## Motivation Quote
+"Small daily improvements lead to big results over time."
